@@ -1,0 +1,126 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pitchers.com" resolutions="1x" timestamp="1475693069275">
+  <folder name="css">
+    <file name="site_global.css" crc="4202786373"/>
+    <file name="master_a-master.css" crc="385166312" ref="templates:other-resources:tutorials:tips---tricks:index"/>
+    <file name="templates.css" crc="4071441179" ref="templates"/>
+    <file name="iefonts_templates.css" crc="3916118148" ref="templates"/>
+    <file name="other-resources.css" crc="4028699180" ref="other-resources"/>
+    <file name="iefonts_other-resources.css" crc="330747051" ref="other-resources"/>
+    <file name="tutorials.css" crc="4268742671" ref="tutorials"/>
+    <file name="iefonts_tutorials.css" crc="4017241818" ref="tutorials"/>
+    <file name="tips---tricks.css" crc="181862817" ref="tips---tricks"/>
+    <file name="iefonts_tips---tricks.css" crc="261381242" ref="tips---tricks"/>
+    <file name="index.css" crc="3956391662" ref="index"/>
+    <file name="iefonts_index.css" crc="4234812030" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="museutils.js" crc="4190794036" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="whatinput.js" crc="84559013" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="pie.js" crc="3827607177" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="webpro.js" crc="488283310" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="form_check.php" crc="430210585" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="form_throttle.php" crc="282343929" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="form_process.php" crc="339897355" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="form-u5424.php" crc="4080932923" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="form-u9624.php" crc="460654048" ref="tutorials"/>
+    <file name="form-u9699.php" crc="460654048" ref="templates"/>
+    <file name="form-u10542.php" crc="460654048" ref="tips---tricks"/>
+    <file name="form-u11226.php" crc="460654048" ref="other-resources"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4062403831" ref="index"/>
+    <file name="23.jpg" crc="60302088" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="logo3.png" crc="88171907" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="facebook.png" crc="4101321108" seo="true" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="twitter.png" crc="4110570191" seo="true" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="linkedin.png" crc="3892482790" seo="true" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="instagram.png" crc="136590992" seo="true" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="pinterest.png" crc="3999301469" seo="true" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="youtube.png" crc="4277572488" seo="true" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="u5426-17.png" crc="3834350128" ref="index"/>
+    <file name="u5426-17-r.png" crc="3877123148" ref="index"/>
+    <file name="u5426-17-m.png" crc="329290175" ref="index"/>
+    <file name="u5426-17-fs.png" crc="3834350128" ref="index"/>
+    <file name="24.jpg" crc="148727262" ref="index:tutorials:templates:tips---tricks:other-resources"/>
+    <file name="20.jpg" crc="294894153" ref="index"/>
+    <file name="21-u7253-fr.jpg" crc="3900043720" ref="index"/>
+    <file name="22.jpg" crc="332482199" ref="index"/>
+    <file name="upload-u5701.png" crc="13533924" ref="index"/>
+    <file name="tricks-u5682.png" crc="4143574256" ref="index"/>
+    <file name="settings-work-tool-u5714.png" crc="3815298868" ref="index"/>
+    <file name="cart-u11587.png" crc="4232316717" ref="index"/>
+    <file name="tutorials-favicon.ico" crc="4062403831" ref="tutorials"/>
+    <file name="21.jpg" crc="224302455" ref="tutorials:templates:tips---tricks:other-resources"/>
+    <file name="logo3185x185.png" crc="3791245107" seo="true" ref="tutorials"/>
+    <file name="v1.jpg" crc="3935713100" ref="tutorials"/>
+    <file name="v2.jpg" crc="58948966" ref="tutorials"/>
+    <file name="v3.jpg" crc="182013542" ref="tutorials"/>
+    <file name="v4.jpg" crc="4028625534" ref="tutorials"/>
+    <file name="v5.jpg" crc="4213425234" ref="tutorials"/>
+    <file name="v6.jpg" crc="4117911729" ref="tutorials"/>
+    <file name="v7.jpg" crc="445382170" ref="tutorials"/>
+    <file name="v8.jpg" crc="3976619570" ref="tutorials"/>
+    <file name="v9.jpg" crc="3818405491" ref="tutorials"/>
+    <file name="v10.jpg" crc="181279143" ref="tutorials"/>
+    <file name="v11.jpg" crc="3818414421" ref="tutorials"/>
+    <file name="v12.jpg" crc="4050413226" ref="tutorials"/>
+    <file name="arrow-u10256.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10290.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10311.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10325.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10269.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10283.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10304.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10332.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10276.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10297.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10318.png" crc="399222771" ref="tutorials"/>
+    <file name="arrow-u10339.png" crc="399222771" ref="tutorials"/>
+    <file name="u9629-17.png" crc="3834350128" ref="tutorials"/>
+    <file name="u9629-17-r.png" crc="3877123148" ref="tutorials"/>
+    <file name="u9629-17-m.png" crc="329290175" ref="tutorials"/>
+    <file name="u9629-17-fs.png" crc="3834350128" ref="tutorials"/>
+    <file name="templates-favicon.ico" crc="4062403831" ref="templates"/>
+    <file name="t1.jpg" crc="390862191" ref="templates"/>
+    <file name="t2.jpg" crc="4267486629" ref="templates"/>
+    <file name="t3.jpg" crc="346908528" ref="templates"/>
+    <file name="t4.jpg" crc="244610858" ref="templates"/>
+    <file name="u9700-17.png" crc="3834350128" ref="templates"/>
+    <file name="u9700-17-r.png" crc="3877123148" ref="templates"/>
+    <file name="u9700-17-m.png" crc="329290175" ref="templates"/>
+    <file name="u9700-17-fs.png" crc="3834350128" ref="templates"/>
+    <file name="tips---tricks-favicon.ico" crc="4062403831" ref="tips---tricks"/>
+    <file name="t5.jpg" crc="3897710692" ref="tips---tricks"/>
+    <file name="t6.jpg" crc="209064148" ref="tips---tricks"/>
+    <file name="u10548-17.png" crc="3834350128" ref="tips---tricks"/>
+    <file name="u10548-17-r.png" crc="3877123148" ref="tips---tricks"/>
+    <file name="u10548-17-m.png" crc="329290175" ref="tips---tricks"/>
+    <file name="u10548-17-fs.png" crc="3834350128" ref="tips---tricks"/>
+    <file name="other-resources-favicon.ico" crc="4062403831" ref="other-resources"/>
+    <file name="t7.jpg" crc="3827387938" ref="other-resources"/>
+    <file name="t8.jpg" crc="3902272008" ref="other-resources"/>
+    <file name="t9.jpg" crc="4085198702" ref="other-resources"/>
+    <file name="t10.jpg" crc="4170300786" ref="other-resources"/>
+    <file name="t11.jpg" crc="427416003" ref="other-resources"/>
+    <file name="t12.jpg" crc="3923927897" ref="other-resources"/>
+    <file name="u11232-17.png" crc="3834350128" ref="other-resources"/>
+    <file name="u11232-17-r.png" crc="3877123148" ref="other-resources"/>
+    <file name="u11232-17-m.png" crc="329290175" ref="other-resources"/>
+    <file name="u11232-17-fs.png" crc="3834350128" ref="other-resources"/>
+  </folder>
+  <file name="index.html" crc="3786033603" seo="true" mt="1475692751572" redirect="true"/>
+  <file name="tutorials.html" crc="247185163" seo="true" mt="1475692368865" redirect="true"/>
+  <file name="templates.html" crc="4163703698" seo="true" mt="1475692368865" redirect="true"/>
+  <file name="tips---tricks.html" crc="4232017207" seo="true" mt="1475692368865" redirect="true"/>
+  <file name="other-resources.html" crc="36750745" seo="true" mt="1475692368865" redirect="true"/>
+</manifest>
